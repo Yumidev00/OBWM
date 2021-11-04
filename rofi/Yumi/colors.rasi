@@ -1,0 +1,16 @@
+/* Copyright (C) 2021-2022 Yumi Takanashi <yumidev00@gmail.com> */
+/* Everyone is permitted to copy and distribute copies of this file under GNU-GPL3 */
+
+/* Color-Scheme */
+
+* {
+    BG:    #1010109f;
+    BGA:   #202020bf;
+    FG:    #FFFFFFff;
+    BDR:   #E5CEAEff;
+    SEL:   #FFFFFFff;
+    UGT:   #EC7875ff;
+	IMG:   #E5CEAEff;
+	ON:    #61C766ff;
+	OFF:   #EC7875ff;
+}

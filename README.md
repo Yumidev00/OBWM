@@ -8,7 +8,7 @@
    
    ▴ **WM** -> [OpenBox](https://bspwm.org/)
 
-   ▴ **Terminal** -> [Alacritty](https://github.com/alacritty/alacritty), [Termite](https://github.com/thestinger/termite)
+   ▴ **Terminal** -> [Alacritty](https://github.com/alacritty/alacritty), [ZSH](https://#)
 
    ▴ **Bar** -> [Polybar](https://polybar.github.io/)
    

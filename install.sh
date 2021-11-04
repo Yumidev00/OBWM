@@ -20,9 +20,10 @@
 
 ######################################
 
-cp -r polybar $HOME/.config/openbox/polybar
+cp -r polybar/Yumi $HOME/.config/openbox/polybar
 cp -r rofi/Yumi $HOME/.config/openbox/rofi
 cp -r scripts/Yumi.sh $HOME/.config/openbox/scripts
+cp -r wallpaper/sad.png /usr/share/backgraund
 
 ######################################
 

@@ -12,6 +12,6 @@
 
    ▴ **Bar** -> [Polybar](https://polybar.github.io/)
    
-   ▴ **Application Launcher** -> [Rofi](https://github.com/davatorium/rofi) (Modified from [here](https://github.com/adi1090x/rofi))
+   ▴ **Application Launcher** -> [Rofi](https://github.com/davatorium/rofi)
 
    ▴ **File Manager** -> [Ranger/Thunar](#)

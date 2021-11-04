@@ -3,6 +3,8 @@
 **Thanks for visiting!**
 
 <img src='Desktop.png' alt='OpenBoxWM' align='right' width='400px'/>
+<img src='Desktop1.png' alt='OpenBoxWM' align='right' width='400px'/>
+<img src='Desktop2.png' alt='OpenBoxWM' align='right' width='400px'/>
 
    ▴ **OS** -> [Arch](https://archlinux.org/)
    

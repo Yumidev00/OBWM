@@ -14,7 +14,7 @@ dunst_path="$HOME/.config/dunst"
 
 # wallpaper ---------------------------------
 set_wallpaper() {
-	nitrogen --save --set-zoom-fill /usr/share/backgrounds/"$1"
+	nitrogen --save --set-zoom-fill $HOME/Pictures/wallpapers/sad.png
 }
 
 # polybar -----------------------------------

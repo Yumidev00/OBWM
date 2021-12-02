@@ -99,6 +99,6 @@ case $chosen in
         bash ${BSP}/set-theme  'wave.jpg' 'wave' 'Wave' 'Luv-Folders-Dark' 'Vimix'
         ;;
     $theme_21)
-        bash ${BSP}/set-theme  'sad.jpg' 'light' 'White' 'Arc-Circle' 'Fluent-dark'
+        bash ${BSP}/set-theme  'sad.png' 'light' 'White' 'Arc-Circle' 'Fluent-dark'
         ;;
 esac

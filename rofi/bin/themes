@@ -5,7 +5,7 @@
 
 DIR="$HOME/.config/bspwm"
 BSP="$HOME/.config/bspwm/themes"
-BG="$HOME/Pictures"
+BG="$HOME/Pictures/wallpapers"
 rofi_command="rofi -theme $DIR/rofi/themes/themes.rasi"
 
 # Themes

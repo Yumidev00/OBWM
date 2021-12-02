@@ -6,7 +6,7 @@
 
    ▴ **OS** -> [Arch](https://archlinux.org/)
    
-   ▴ **WM** -> [OpenBox](https://bspwm.org/)
+   ▴ **WM** -> [OpenBox/BSP](https://bspwm.org/)
 
    ▴ **Terminal** -> [Alacritty](https://github.com/alacritty/alacritty), [ZSH](https://#)
 

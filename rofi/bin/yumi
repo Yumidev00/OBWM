@@ -1,0 +1,41 @@
+! -----------------------------------------------------------------------------
+! Copyright (C) 2020-2021 Aditya Shakya <adi1090x@gmail.com>
+! Everyone is permitted to copy and distribute copies of this file under GNU-GPL3
+!
+! Yumi color scheme
+! -----------------------------------------------------------------------------
+
+*background: #0d0e0d
+*foreground: #e5e0dc
+
+! DarkColor + Color
+*color0:  #232323
+*color8:  #ffffff
+
+! DarkColor + Color
+*color1:  #ffffff
+*color9:  #ffffff
+
+! DarkColor + Color
+*color2:  #ffffff
+*color10: #ffffff
+
+! DarkColor + Color
+*color3:  #ffffff
+*color11: #ffffff
+
+! DarkColor + Color
+*color4:  #ffffff
+*color12: #ffffff
+
+! DarkColor + Color
+*color5:  #ffffff
+*color13: #ffffff
+
+! DarkColor + Color
+*color6:  #ffffff
+*color14: #ffffff
+
+! DarkColor + Color
+*color7:  #ffffff
+*color15: #ffffff
